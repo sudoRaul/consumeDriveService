@@ -1,4 +1,4 @@
-//Es necesario hacer el composer y entrar a la cuenta de google y descargar el archivo.json
+//Es necesario hacer el composer (composer require google/apiclient:^2.0^C) y entrar a la cuenta de google y descargar el archivo.json
 //Además para testear es necesario dar permiso a las cuentas de Google
 <?php
 require 'vendor/autoload.php';
